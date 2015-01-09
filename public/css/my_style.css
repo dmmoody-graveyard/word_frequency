@@ -11,17 +11,6 @@ img {
 	position: right;
 }
 
-#word,
-#phrase {
-	background-color: #E8FFEA;
-	border: none;
-	border-radius: 10px;
-}
-
-#phrase {
-	height: 48px;
-}
-
 .jumbotron {
 	background-color: #CFE8C8;
 }
@@ -35,7 +24,19 @@ img {
 
 .word,
 .count,
-.phrase {
+.phrase,
+label {
 	color: #FFA8F0;
 	font-size: .75em;
+}
+
+#word,
+#phrase {
+	background-color: #E8FFEA;
+	border: none;
+	border-radius: 10px;
+}
+
+#phrase {
+	height: 48px;
 }
