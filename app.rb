@@ -4,5 +4,5 @@ also_reload('lib/**/*.rb')
 require('./lib/word_frequency')
 
 get('/') do
-  "Hello World"
+  erb(:index)
 end
