@@ -3,12 +3,12 @@ Word Frequency
 
 by <a href="http://moodyco.de" target="_blank">Duane M. Moody</a>.
 
-Word Frequency is A website that uses a method to return how frequently a word appears in a given string. The user should input both the word and the string of words to check.
+Word Frequency is a website that uses a method to return how frequently a word appears in a given string. The user should input both the word and the string of words to check.
 
 Installation
 ------------
 
-Install $project by first cloning the repository.  
+Install Word Frequency by first cloning the repository.  
 ```
 $ git clone http://github.com/dmmoody/word_frequency.git
 ```
