@@ -3,11 +3,16 @@
   <head>
     <title>Word Frequency</title>
     <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+    <link href='http://fonts.googleapis.com/css?family=Handlee' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Maven+Pro' rel='stylesheet' type='text/css'>
+    <link rel='stylesheet' type="text/css" href="./css/my_style.css">
   </head>
-  <body>
-    <div class="container">
+  <body class="container">
+    <div class="jumbotron">
       <h1>Word Frequency</h1>
-
+      <img src="./img/overused-word-list.jpg" class="img-circle pull-right" alt="Responsive image">
+    </div>
+    <div class="content col-md-6">
       <%= yield %>
     </div>
   </body>

@@ -1,0 +1,41 @@
+body {
+	margin-top: 20px;
+}
+
+h1 {
+	font-family: 'Handlee', cursive;
+}
+
+img {
+	width: 40%;
+	position: right;
+}
+
+#word,
+#phrase {
+	background-color: #E8FFEA;
+	border: none;
+	border-radius: 10px;
+}
+
+#phrase {
+	height: 48px;
+}
+
+.jumbotron {
+	background-color: #CFE8C8;
+}
+
+.content {
+	font-family: 'Maven Pro', sans-serif;
+	font-size: 2em;
+	padding: 30px;
+	margin: 0px;
+}
+
+.word,
+.count,
+.phrase {
+	color: #FFA8F0;
+	font-size: .75em;
+}
