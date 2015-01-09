@@ -37,13 +37,13 @@ Support
 If you are having issues, please let me know at: dmmoody@gmail.com
 
 Bug reports
-===========
+-----------
 
 If you discover any bugs, feel free to create an issue on GitHub. Please add as much information as possible to help me fixing the possible bug. I also encourage you to help even more by forking and sending me a pull request.
 
 https://github.com/dmmoody/word_frequency/issues
 
 License
-=======
+-------
 
 MIT License. Copyright 2014 Duane M. Moody | <a href="http://moodyco.de">MoodyCo.de</a>
