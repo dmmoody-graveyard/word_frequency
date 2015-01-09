@@ -1,5 +1,5 @@
 class String
-  define_method(:phrase?) do |word|
+  define_method(:count?) do |word|
     self.downcase().gsub(/[!.,?]/,'').split().count(word.downcase())
   end
 end

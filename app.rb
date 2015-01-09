@@ -10,6 +10,6 @@ end
 get('/word_count') do
   @word = params.fetch('word')
   @phrase = params.fetch('phrase')
-  @word_count = @phrase.phrase?(@word)
+  @word_count = @phrase.count?(@word)
   erb(:word_count)
 end
